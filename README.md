@@ -37,8 +37,12 @@
    
    It allows users to view all departments, roles, and employees, add new departments, roles, and employees, update employee roles, and delete employees.
 
-  ##Tests
+  ##Screenshots
+  ![Screenshots](https://github.com/bbandhu/Employee-Tracker/blob/main/Assets/Screenshot%202023-05-01%20at%2011.12.03%20PM.png)
+  ![Screenshots](https://github.com/bbandhu/Employee-Tracker/blob/main/Assets/Screenshot%202023-05-01%20at%2011.12.30%20PM.png)
 
+  ##Tests
+  
   N/A
 
 
